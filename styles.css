@@ -102,7 +102,7 @@ body{
 }
 /*==============Main section styles==============*/
 .main-banner{
-    background: url(/home-banner.png) no-repeat top center;
+    background: url(home-banner.png) no-repeat top center;
     background-position: center;
     background-size: cover;
     min-height: 890px;
